@@ -10,8 +10,8 @@
             "sprite": {
                 "imagePath": "https://raw.githubusercontent.com/alvelvis/ccus_image_similarity_tensorboard/main/sprite.png",
                 "singleImageDim": [
-                    256,
-                    256
+                    28,
+                    28
                 ]
             }
         }

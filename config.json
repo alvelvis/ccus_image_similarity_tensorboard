@@ -1,19 +1,19 @@
 {
     "embeddings": [
-      {
-        "tensorName": "CCUS image similarity",
-        "tensorShape": [
-          435,
-          1024
-        ],
-        "tensorPath": "https://raw.githubusercontent.com/alvelvis/ccus_image_similarity_tensorboard/main/feature_vecs.tsv",
-        "sprite": {
-          "imagePath": "https://github.com/alvelvis/ccus_image_similarity_tensorboard/blob/main/sprite.jpg?raw=true",
-          "singleImageDim": [
-            256,
-            256
-          ]
+        {
+            "tensorName": "CCUS image similarity",
+            "tensorShape": [
+                435,
+                1024
+            ],
+            "tensorPath": "https://raw.githubusercontent.com/alvelvis/ccus_image_similarity_tensorboard/main/feature_vecs.tsv",
+            "sprite": {
+                "imagePath": "https://github.com/alvelvis/ccus_image_similarity_tensorboard/blob/main/sprite.jpg?raw=true",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
         }
-      }
     ]
-  }
+}
